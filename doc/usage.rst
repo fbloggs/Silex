@@ -415,7 +415,7 @@ Silex to lazily create the controller object for you::
     use Silex\Application;
     use Symfony\Component\HttpFoundation\Request;
 
-    namespace Acme
+    namespace Acme;
     {
         class Foo
         {
